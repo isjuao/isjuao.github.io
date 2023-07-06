@@ -1,5 +1,3 @@
-Hi! My name is Isabell, but most people call me Isi [ˈɪziː].
-
 Welcome to my Github page! If you've made it here, it's likely you know that **coding** plays a significant role in 
 my professional life - spot on! If I haven't lost you there already, let me give you a brief overview on what I'm 
 working on right now and how I got here. 
