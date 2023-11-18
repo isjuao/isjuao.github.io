@@ -45,11 +45,11 @@ and [TensorFlow](https://www.tensorflow.org/) Python libraries. The project aims
   cross-species transfer learning from macaque monkeys. It investigates if transfer learning could prove beneficial in 
   quantifying human movement patterns from regular video data, in order to ultimately improve movement pathology 
 diagnosis and monitoring. I am excited to be able to expand my hands-on experience 
-  with ML tools, and the project code will be made public upon completion.
+  with ML tools, and the code is available in [the repository](https://github.com/isjuao/pommes) now that I am about to graduate.
 - Within the scope of a recent hack weekend I attended, I worked on developing a prototype web application for a 
   platform that enables the public and healthcare enthusiasts to explore and analyse
 [Scotland's prescribing data](https://www.opendata.nhs.scot/dataset/prescriptions-in-the-community). I am hoping to be 
-  part of taking this project further in the future!
+  part of taking this project further in the future! Currently, the project code is available through the OpenData Scotland Github ([see repository](https://github.com/CodeTheCity/open_prescribing_scotland)).
 
 ### More Isi
 🔗 [LinkedIn](https://www.linkedin.com/in/isabell-orlishausen/)
