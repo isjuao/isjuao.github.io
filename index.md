@@ -1,11 +1,11 @@
 <style>
   a {
-    color: #1e2237;
+    color: #2F2857;
   }
 
   a:hover,
   a:focus {
-    color: #3a4160;
+    color: #4D5780;
   }
 
   header img {
