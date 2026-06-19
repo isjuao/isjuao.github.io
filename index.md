@@ -1,15 +1,20 @@
 <style>
   a {
-    color: #2F2857;
+    color: #1e2237;
   }
 
   a:hover,
   a:focus {
-    color: #4D5780;
+    color: #3a4160;
   }
 
   header img {
     border-radius: 50%;
+    display: block;
+    width: 72%;
+    max-width: 190px;
+    height: auto;
+    margin-bottom: 1.25em;
   }
 </style>
 
