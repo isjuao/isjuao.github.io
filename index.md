@@ -1,3 +1,18 @@
+<style>
+  a {
+    color: #1e2237;
+  }
+
+  a:hover,
+  a:focus {
+    color: #3a4160;
+  }
+
+  header img {
+    border-radius: 50%;
+  }
+</style>
+
 Welcome to my Github page - if you've made it here, it's likely you know that **coding** plays (or, in the age of agents, let's say used to play) a significant role in my professional life. If I haven't lost you there already, let me give you a brief overview on what I'm working on right now and how I got here. 
 
 Currently, I'm working as a Data Analyst Programmer for [SEBI-L](https://sebi-livestock.org/) at the University of Edinburgh, after completing my **MSc** program in [Health Data Science](https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1230/health-data-science/) at the University of Aberdeen and my **BSc** in [Bioinformatics](https://www.tum.de/en/studies/degree-programs/detail/bioinformatics-master-of-science-msc) at TUM. I'm passionate about using Data Science for the social good, particularly within the 🧬 biomedical domain.
